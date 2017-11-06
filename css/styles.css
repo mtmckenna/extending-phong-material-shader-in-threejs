@@ -1,0 +1,21 @@
+body {
+  background-color: #9bb5c6;
+  text-align: center;
+}
+
+canvas {
+  width: 150px;
+  height: 150px;
+}
+
+.canvas-wrapper {
+  display: inline-block;
+}
+
+#js-canvas-default {
+  background-color: #ff0000;
+}
+
+#js-canvas-custom {
+  background-color: #0000ff;
+}
